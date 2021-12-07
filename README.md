@@ -1,6 +1,6 @@
 ## Simple express app wrapped in docker
-this was to demonstrate how to create a Docker Image and container from a simple app
-## Docker commands:
+This was created to demonstrate how to create a Docker Image and container from a simple app
+## Docker commands:\
 `docker ps`
 shows containers that are running
 `docker build -t myimagename:1.0.1 .`
