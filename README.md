@@ -1,4 +1,4 @@
-#simple express app wrapped in docker
+## Simple express app wrapped in docker
 this was to demonstrate how to create a Docker Image and container from a simple app
 ## Docker commands:
 `docker ps`
