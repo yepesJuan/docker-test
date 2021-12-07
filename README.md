@@ -10,4 +10,4 @@ runs the docker image.\
 `docker run -p 5050:8080 -v /Users/myuser/code/myproject/:/src/ myimagename:1.0.1`\
 Runs docker image with volume mapped to local folder\
 `docker kill 123`\
-kills the container with the Container ID beginning with 123\
+kills the container with the Container ID beginning with 123
